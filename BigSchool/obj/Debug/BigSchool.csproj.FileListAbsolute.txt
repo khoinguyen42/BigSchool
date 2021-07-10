@@ -101,8 +101,14 @@ D:\lap trinh web\BigSchool\BigSchool\bin\Microsoft.Owin.Security.Twitter.xml
 D:\lap trinh web\BigSchool\BigSchool\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 D:\lap trinh web\BigSchool\BigSchool\bin\Microsoft.Owin.Security.OAuth.xml
 D:\lap trinh web\BigSchool\BigSchool\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\lap trinh web\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.AssemblyReference.cache
 D:\lap trinh web\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.CoreCompileInputs.cache
 D:\lap trinh web\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.CopyComplete
 D:\lap trinh web\BigSchool\BigSchool\obj\Debug\BigSchool.dll
 D:\lap trinh web\BigSchool\BigSchool\obj\Debug\BigSchool.pdb
+D:\lap trinh web\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.AssemblyReference.cache
+D:\lap trinh web\BigSchool\BigSchool\bin\System.Net.Http.Formatting.dll
+D:\lap trinh web\BigSchool\BigSchool\bin\System.Web.Http.dll
+D:\lap trinh web\BigSchool\BigSchool\bin\System.Web.Http.WebHost.dll
+D:\lap trinh web\BigSchool\BigSchool\bin\System.Net.Http.Formatting.xml
+D:\lap trinh web\BigSchool\BigSchool\bin\System.Web.Http.xml
+D:\lap trinh web\BigSchool\BigSchool\bin\System.Web.Http.WebHost.xml
