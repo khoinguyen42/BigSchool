@@ -105,10 +105,10 @@ D:\lap trinh web\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.CoreCompileInput
 D:\lap trinh web\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.CopyComplete
 D:\lap trinh web\BigSchool\BigSchool\obj\Debug\BigSchool.dll
 D:\lap trinh web\BigSchool\BigSchool\obj\Debug\BigSchool.pdb
-D:\lap trinh web\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.AssemblyReference.cache
 D:\lap trinh web\BigSchool\BigSchool\bin\System.Net.Http.Formatting.dll
 D:\lap trinh web\BigSchool\BigSchool\bin\System.Web.Http.dll
 D:\lap trinh web\BigSchool\BigSchool\bin\System.Web.Http.WebHost.dll
 D:\lap trinh web\BigSchool\BigSchool\bin\System.Net.Http.Formatting.xml
 D:\lap trinh web\BigSchool\BigSchool\bin\System.Web.Http.xml
 D:\lap trinh web\BigSchool\BigSchool\bin\System.Web.Http.WebHost.xml
+D:\lap trinh web\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.AssemblyReference.cache
